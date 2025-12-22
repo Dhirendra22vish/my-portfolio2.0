@@ -1,0 +1,3 @@
+- **Live Background**: Added a dynamic particle network animation that floats in the background, adapting colors to the theme.
+- **Transparent Sections**: Made all sections, including the Hero/About section, transparent to fully showcase the background animation.
+- The profile picture is loaded from `public/profile.png`.
